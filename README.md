@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Data Warehouse ETL Project
 
 A comprehensive Java-based data warehousing solution that demonstrates ETL (Extract, Transform, Load) processes using hybrid join techniques for combining data from multiple sources.
