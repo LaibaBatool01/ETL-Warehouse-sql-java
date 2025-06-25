@@ -314,19 +314,3 @@ The project includes sample OLAP queries in `Queries-DW-SQL.sql` for:
 - Product performance
 - Time-based analytics
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## 📄 License
-
-This project is for educational and demonstration purposes.
-
-## 📞 Support
-
->>>>>>> fbad43f7cb31451c92594c0124b5fc51c3964158
-For questions or issues, please refer to the project documentation or create an issue in the repository. 
