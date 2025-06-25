@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Description
 This Java project demonstrates a data warehousing process that combines data from different sources using a Hybrid Join technique. It loads data from a transaction database and a data warehouse database, processes the data, and performs joins. The project includes three main components: `StreamGenerator`, `HybridJoin`, and `Controller`.
 
