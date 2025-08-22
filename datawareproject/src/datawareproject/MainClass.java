@@ -2,7 +2,7 @@ package datawareproject;
 
 
 //String username = "root";
-//String password = "Laiba1426";
+//String password = "dbpassword";
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
